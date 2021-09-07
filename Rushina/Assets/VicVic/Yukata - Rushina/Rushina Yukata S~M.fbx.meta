@@ -1,0 +1,210 @@
+fileFormatVersion: 2
+guid: d79909ff40517734a94a7a3bd5b787b7
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: Armature
+    100002: Breast Root
+    100004: Chest
+    100006: Geta
+    100008: Hips
+    100010: LeftArm
+    100012: LeftBreast
+    100014: LeftBreast_End
+    100016: LeftFoot
+    100018: LeftForeArm
+    100020: LeftHand
+    100022: LeftLeg
+    100024: LeftShoulder
+    100026: LeftToeBase
+    100028: LeftUpLeg
+    100030: Neck
+    100032: RightArm
+    100034: RightBreast
+    100036: RightBreast_End
+    100038: RightFoot
+    100040: RightForeArm
+    100042: RightHand
+    100044: RightLeg
+    100046: RightShoulder
+    100048: RightToeBase
+    100050: RightUpLeg
+    100052: //RootNode
+    100054: Spine
+    100056: Yukata
+    100058: Yukata_LowerArm_Sup.L
+    100060: Yukata_LowerArm_Sup.R
+    100062: Yukata_LowerLeg_DB1.L
+    100064: Yukata_LowerLeg_DB1.R
+    100066: Yukata_LowerLeg_DB2.L
+    100068: Yukata_LowerLeg_DB2.R
+    100070: Yukata_LowerLeg_DB3.L
+    100072: Yukata_LowerLeg_DB3.R
+    100074: Yukata_LowerSleeve_1.L
+    100076: Yukata_LowerSleeve_1.R
+    100078: Yukata_LowerSleeve_2.L
+    100080: Yukata_LowerSleeve_2.R
+    100082: Yukata_LowerSleeve_3.L
+    100084: Yukata_LowerSleeve_3.R
+    100086: Yukata_Obi_1.L
+    100088: Yukata_Obi_1.R
+    100090: Yukata_Obi_2.L
+    100092: Yukata_Obi_2.R
+    100094: Yukata_Obi_3.L
+    100096: Yukata_Obi_3.R
+    100098: Yukata_Obi_Root
+    100100: Yukata_UpperSleeve_1.L
+    100102: Yukata_UpperSleeve_1.R
+    100104: Yukata_UpperSleeve_2.L
+    100106: Yukata_UpperSleeve_2.R
+    100108: Yukata_UpperSleeve_3.L
+    100110: Yukata_UpperSleeve_3.R
+    400000: Armature
+    400002: Breast Root
+    400004: Chest
+    400006: Geta
+    400008: Hips
+    400010: LeftArm
+    400012: LeftBreast
+    400014: LeftBreast_End
+    400016: LeftFoot
+    400018: LeftForeArm
+    400020: LeftHand
+    400022: LeftLeg
+    400024: LeftShoulder
+    400026: LeftToeBase
+    400028: LeftUpLeg
+    400030: Neck
+    400032: RightArm
+    400034: RightBreast
+    400036: RightBreast_End
+    400038: RightFoot
+    400040: RightForeArm
+    400042: RightHand
+    400044: RightLeg
+    400046: RightShoulder
+    400048: RightToeBase
+    400050: RightUpLeg
+    400052: //RootNode
+    400054: Spine
+    400056: Yukata
+    400058: Yukata_LowerArm_Sup.L
+    400060: Yukata_LowerArm_Sup.R
+    400062: Yukata_LowerLeg_DB1.L
+    400064: Yukata_LowerLeg_DB1.R
+    400066: Yukata_LowerLeg_DB2.L
+    400068: Yukata_LowerLeg_DB2.R
+    400070: Yukata_LowerLeg_DB3.L
+    400072: Yukata_LowerLeg_DB3.R
+    400074: Yukata_LowerSleeve_1.L
+    400076: Yukata_LowerSleeve_1.R
+    400078: Yukata_LowerSleeve_2.L
+    400080: Yukata_LowerSleeve_2.R
+    400082: Yukata_LowerSleeve_3.L
+    400084: Yukata_LowerSleeve_3.R
+    400086: Yukata_Obi_1.L
+    400088: Yukata_Obi_1.R
+    400090: Yukata_Obi_2.L
+    400092: Yukata_Obi_2.R
+    400094: Yukata_Obi_3.L
+    400096: Yukata_Obi_3.R
+    400098: Yukata_Obi_Root
+    400100: Yukata_UpperSleeve_1.L
+    400102: Yukata_UpperSleeve_1.R
+    400104: Yukata_UpperSleeve_2.L
+    400106: Yukata_UpperSleeve_2.R
+    400108: Yukata_UpperSleeve_3.L
+    400110: Yukata_UpperSleeve_3.R
+    2100000: Yukata.001
+    4300000: Yukata
+    4300002: Geta
+    9500000: //RootNode
+    13700000: Geta
+    13700002: Yukata
+    2186277476908879412: ImportLogs
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 1
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
