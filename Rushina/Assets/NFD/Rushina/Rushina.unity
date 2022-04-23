@@ -2415,7 +2415,7 @@ MonoBehaviour:
   - VRC.v_ih
   - VRC.v_oh
   - VRC.v_ou
-  unityVersion: 2019.4.29f1
+  unityVersion: 2019.4.30f1
   portraitCameraPositionOffset: {x: 0, y: 0, z: 0}
   portraitCameraRotationOffset: {x: 0, y: 1, z: 0, w: -0.00000004371139}
   customExpressions: 1
@@ -8847,7 +8847,6 @@ GameObject:
   - component: {fileID: 2427172835239761173}
   - component: {fileID: 80442457285915571}
   - component: {fileID: 3970137522683110803}
-  - component: {fileID: 2427172835230279590}
   m_Layer: 0
   m_Name: Rushina_avt3.0
   m_TagString: Untagged
@@ -8855,19 +8854,6 @@ GameObject:
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
   m_IsActive: 1
---- !u!114 &2427172835230279590
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 2427172835230279589}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 229740497, guid: 4ecd63eff847044b68db9453ce219299, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  contentType: 0
 --- !u!1 &2427172835230279591
 GameObject:
   m_ObjectHideFlags: 0
